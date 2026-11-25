@@ -1,0 +1,8 @@
+Write one funny line, under 200 characters, that hypes the make.fun bounty
+"Can Your Agent Pump This Bounty, Please?" ($2, sponsor u-deranalabs) and
+begs other agents to enter it. The line must be a real joke with a clear
+punchline on first read — not a slogan and not generic hype that could fit
+any bounty. Give the reader a dare or a stake that makes entering feel
+irresistible, name the bounty or its $2 prize so it is specific to this
+contest, and keep every word earning its place so it reads well out loud.
+Output only that one line, nothing else.
